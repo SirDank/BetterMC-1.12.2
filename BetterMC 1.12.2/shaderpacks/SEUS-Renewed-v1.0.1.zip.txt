@@ -1,0 +1,5 @@
+#Sun Mar 05 03:18:54 TRT 2023
+shadowDistance=80.0
+TEXTURE_RESOLUTION=16
+shadowMapResolution=1024
+MOTION_BLUR=false

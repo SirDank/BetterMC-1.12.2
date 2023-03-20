@@ -1,0 +1,5 @@
+#Fri May 20 04:18:15 TRT 2022
+LIGHT_SHAFT=false
+REFLECTION=false
+BLOOM=false
+AO=false
